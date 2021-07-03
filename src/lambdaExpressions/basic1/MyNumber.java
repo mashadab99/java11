@@ -1,4 +1,4 @@
-package lambdaExpressions.example1;
+package lambdaExpressions.basic1;
 
 /**
  * Demonstrate a Simple lambda expression

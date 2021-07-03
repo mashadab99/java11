@@ -1,4 +1,4 @@
-package lambdaExpressions.example3;
+package lambdaExpressions.basic3;
 
 //Demonstrate a lambda expression that takes two parameters.
 public interface NumericTest2 {

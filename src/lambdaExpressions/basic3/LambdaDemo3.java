@@ -1,4 +1,4 @@
-package lambdaExpressions.example3;
+package lambdaExpressions.basic3;
 
 public class LambdaDemo3 {
     public static void main(String[] args){

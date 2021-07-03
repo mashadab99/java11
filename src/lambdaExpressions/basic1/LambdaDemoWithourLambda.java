@@ -1,4 +1,4 @@
-package lambdaExpressions.example1;
+package lambdaExpressions.basic1;
 
 public class LambdaDemoWithourLambda implements MyNumber{
     public static void main(String[] args){
